@@ -1,0 +1,25 @@
+.shirt-image {
+  width: 250px;
+}
+
+.shirt-info {
+  display: flex;
+  align-items: center;
+}
+
+.shirt-image {
+  width: 250px; /* Adjust the width as needed */
+  height: auto; /* Maintain the aspect ratio */
+  margin-right: 20px; /* Add some space between the image and text */
+  padding: 5px 0px 5px 10px;
+}
+
+.shirt-name {
+  flex: 1; /* Allow the name to expand and take available space */
+  font-size: 1.2em; /* Adjust the font size as needed */
+}
+
+.shirt-price {
+  flex: 1;
+  font-size: 1.2em; /* Adjust the font size as needed */
+}

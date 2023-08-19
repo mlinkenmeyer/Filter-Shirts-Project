@@ -1,0 +1,102 @@
+{
+  "shirts": [
+    {
+      "name": "Business Casual Button-up",
+      "type": "Business casual",
+      "color": "blue",
+      "sleeve-length": "Long",
+      "image_url": "assets/biz-casual-blue.jpeg",
+      "price": "45.99",
+      "reviews": [
+        {
+          "review-text": "Great shirt! I wear it every day to work.",
+          "review-rating": "5"
+        }
+      ]
+    },
+    {
+      "name": "Business Casual Button-up",
+      "type": "Business casual",
+      "color": "pink",
+      "sleeve-length": "Long",
+      "image_url": "assets/biz-casual-pink.jpeg",
+      "price": "43.99",
+      "reviews": [
+        {
+          "review-text": "This shirt fit okay. I only wear it with a blazer over it.",
+          "review-rating": "2"
+        }
+      ]
+    },
+    {
+      "name": "Casual Tee",
+      "type": "Casual",
+      "color": "black",
+      "sleeve-length": "Short",
+      "image_url": "assets/tshirt-black.jpeg",
+      "price": "34.50",
+      "reviews": [
+        {
+          "review-text": "It's a basic t-shirt and does the job. Nothing fancy.",
+          "review-rating": "4"
+        }
+      ]
+    },
+    {
+      "name": "Casual Striped Polo",
+      "type": "Casual",
+      "color": "striped",
+      "sleeve-length": "Short",
+      "image_url": "assets/polo-striped.jpeg",
+      "price": "37.50",
+      "reviews": [
+        {
+          "review-text": "This shirt can be dressed up or dress down. Fit beautifully!",
+          "review-rating": "5"
+        }
+      ]
+    },
+    {
+      "name": "Casual Tee",
+      "type": "Casual",
+      "color": "white",
+      "sleeve-length": "Short",
+      "image_url": "assets/tshirt-white.jpeg",
+      "price": "45.50",
+      "reviews": [
+        {
+          "review-text": "This shirt can be dressed up or dress down. Fit beautifully!",
+          "review-rating": "5"
+        }
+      ]
+    },
+    {
+      "name": "Cardigan",
+      "type": "Business casual",
+      "color": "pink",
+      "sleeve-length": "Long",
+      "image_url": "assets/cardigan-pink.jpeg",
+      "price": "36.50",
+      "reviews": [
+        {
+          "review-text": "This shirt can be dressed up or dress down. Fit beautifully!",
+          "review-rating": "5"
+        }
+      ]
+    },
+    {
+      "name": "Business Blazer",
+      "type": "Business",
+      "color": "black",
+      "sleeve-length": "Long",
+      "image_url": "assets/biz-casual-black.jpeg",
+      "price": "34.50",
+      "reviews": [
+        {
+          "review-text": "This shirt fit fine. My only complaint is the material wasn't quality.",
+          "review-rating": "4"
+        }
+      ]
+    }
+  ]
+}
